@@ -23,7 +23,7 @@ My name is **Renato Britto Araujo**
 
 I'm on a mission to become the best engineer I can be
 
-Interest in Crypto
+Interest in Bitcoin
  
 Software Engineering B.A. at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">UnB</a>
   
