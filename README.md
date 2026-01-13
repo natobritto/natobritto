@@ -1,9 +1,6 @@
 
 My name is Renato Britto Araujo. I'm on a mission to become the best engineer I can be. Interest in Bitcoin OSS. 
 
-### Education
-
-- Software Engineering B.A. at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">University of Brasília</a>.
 
 ### Experience
 
@@ -21,6 +18,11 @@ My name is Renato Britto Araujo. I'm on a mission to become the best engineer I 
 
 - [Lappis](https://lappis.rocks/) - [SMI](https://gitlab.com/lappis-unb/projects/SMI) - Full Stack Junior Developer. Worked with Django REST and Vue developing an application for monitoring the university's electrical grid.
  -->
+
+ ### Education
+
+- Software Engineering B.A. at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">University of Brasília</a>.
+
 ### Achievements
 
 - ICPC Brazilian Finals competitive programming national contest in Campina Grande - PB (2019) and Gramado - RS (2022).
