@@ -1,35 +1,9 @@
-<div align="center">
 
-<!-- Linkedin -->
-<a href="mailto:renatobritto.professional@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/renato-britto-araujo/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<!-- GitLab -->
-<!-- <a href="https://gitlab.com/renatobrittoaraujo">
-  <img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white">
-</a>
-<a href="mailto:renatobritto@protonmail.com">
-  <img src="https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white">
-</a> -->
-<!--<img src="https://komarev.com/ghpvc/?username=renatobrittoaraujo&color=red">-->
-<br/>
-  
-My name is **Renato Britto Araujo**
+My name is Renato Britto Araujo. I'm on a mission to become the best engineer I can be. Interest in Bitcoin OSS. 
 
-I'm on a mission to become the best engineer I can be
+### Education
 
-Interest in Bitcoin
- 
-Software Engineering B.A. at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">UnB</a>
-  
- <!--
-Here you can read my [resume](https://www.linkedin.com/in/renato-britto-araujo/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACg6CRUBmqu8F8P9l0QsCBs9L72rpE_U_P8,1609959810589)/) or visit [my website](https://www.renatobritto.com)
- -->
- 
-</div>
+- Software Engineering B.A. at <a href="https://en.wikipedia.org/wiki/University_of_Bras%C3%ADlia">University of Brasília</a>.
 
 ### Experience
 
@@ -49,4 +23,13 @@ Here you can read my [resume](https://www.linkedin.com/in/renato-britto-araujo/d
  -->
 ### Achievements
 
-- ICPC Brazilian Finals competitive programming national contest in Campina Grande - PB (2019) and Gramado - RS (2022). 
+- ICPC Brazilian Finals competitive programming national contest in Campina Grande - PB (2019) and Gramado - RS (2022).
+
+<div align="center">
+<a href="mailto:renatobritto.professional@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/renato-britto-araujo/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+  </div>
